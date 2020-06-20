@@ -9,5 +9,4 @@
 **Thoughts** I'm getting better at creating interesting 3D environments for players to explore. I want to improve my Blender skills and read more of [Level Design - In Pursuit of Better Levels](https://docs.google.com/document/d/1fAlf2MwEFTwePwzbP3try1H0aYa9kpVBHPBkyIq-caY/)
 
 **Link(s) to work**
-1. ![Table](https://pbs.twimg.com/media/Ea84EjCUMAAS6wK?format=png&name=900x900)
-2. ![Location](https://pbs.twimg.com/media/Ea84EjEVcAAYWOp?format=jpg&name=large)
+1. ![Screenshots here](https://twitter.com/MikeCDev1/status/1274300701460447232)
