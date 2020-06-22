@@ -10,3 +10,21 @@
 
 **Link(s) to work**
 1. [Screenshots here](https://twitter.com/MikeCDev1/status/1274300701460447232)
+
+### Day 2: Sunday June 21, 2020
+
+**Today's Progress**: Created a simple website that let's me choose an outfit from my wardrobe
+Tech used: HTML/CSS and Bootstrap 4
+**Thoughts** I've always wanted an application that will let me do this, and I thought it would be good to start with a few 1 hour projects rather than the larger scale ideas I normally try to build.
+
+**Link(s) to work**
+1. 1. [Screenshots here](https://twitter.com/MikeCDev1/status/1274498171293454337)
+
+### Day 3: Monday June 22, 2020
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+1. 
