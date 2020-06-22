@@ -2,9 +2,8 @@
 
 ### Day 1: Saturday June 20, 2020
 
-**Today's Progress**: I've worked on my Unity project with a friend for an hour and a half
-  - Extended a bar location in-game to have a back room and pathway out
-  - Created a 3D model of a table in Blender
+**Today's Progress**: I've worked on my Unity project with a friend for an hour and a half; Extended a bar location in-game to have a back room and pathway out, Created a 3D model of a table in Blender.
+Programs used: Blender, Unity
 
 **Thoughts** I'm getting better at creating interesting 3D environments for players to explore. I want to improve my Blender skills and read more of [Level Design - In Pursuit of Better Levels](https://docs.google.com/document/d/1fAlf2MwEFTwePwzbP3try1H0aYa9kpVBHPBkyIq-caY/)
 
@@ -15,6 +14,8 @@
 
 **Today's Progress**: Created a simple website that let's me choose an outfit from my wardrobe
 Tech used: HTML/CSS and Bootstrap 4
+Programs: Sublime Text, Chrome
+
 **Thoughts** I've always wanted an application that will let me do this, and I thought it would be good to start with a few 1 hour projects rather than the larger scale ideas I normally try to build.
 
 **Link(s) to work**
@@ -22,9 +23,10 @@ Tech used: HTML/CSS and Bootstrap 4
 
 ### Day 3: Monday June 22, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Worked on a blog post about raycasting for the Pico-8, . Completed more modelling work in Blender, scene work in Unity, and asset creation in Aseprite.
+Programs: Evernote, Unity, Blender, Aseprite
 
-**Thoughts** 
+**Thoughts** I've been going through this amazing article by [Lode Vandevenne](https://lodev.org/cgtutor/raycasting.html) which contain a lot of concepts that make me excited about programming in general.
 
 **Link(s) to work**
-1. 
+1. Blog post out soon
