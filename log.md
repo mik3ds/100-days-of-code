@@ -19,7 +19,7 @@ Programs: Sublime Text, Chrome
 **Thoughts** I've always wanted an application that will let me do this, and I thought it would be good to start with a few 1 hour projects rather than the larger scale ideas I normally try to build.
 
 **Link(s) to work**
-1. 1. [Screenshots here](https://twitter.com/MikeCDev1/status/1274498171293454337)
+1. [Screenshots here](https://twitter.com/MikeCDev1/status/1274498171293454337)
 
 ### Day 3: Monday June 22, 2020
 
