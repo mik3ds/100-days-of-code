@@ -40,4 +40,5 @@ Programs: Sublime Text, Chrome.
 It was much harder to post a video to lonely.dev than I thought, but I'm long overdue to start posting videos there. I'm proud that I could do it, hopefully I can keep the vlogs going.
 
 **Link(s) to work**
-1. (First post on lonely.dev)[https://lonely.dev/video/introductions-3c99e5ce]
+1. [My Homepage](https://www.mikeclark.xyz/)
+2. [First post on lonely.dev](https://lonely.dev/video/introductions-3c99e5ce)
