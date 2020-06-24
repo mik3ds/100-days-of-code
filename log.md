@@ -42,3 +42,13 @@ It was much harder to post a video to lonely.dev than I thought, but I'm long ov
 **Link(s) to work**
 1. [My Homepage](https://www.mikeclark.xyz/)
 2. [First post on lonely.dev](https://lonely.dev/video/introductions-3c99e5ce)
+
+
+### Day 5: Wednesday June 24, 2020
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**
+1. 
