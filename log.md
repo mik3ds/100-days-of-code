@@ -46,9 +46,38 @@ It was much harder to post a video to lonely.dev than I thought, but I'm long ov
 
 ### Day 5: Wednesday June 24, 2020
 
-**Today's Progress**: 
+**Today's Progress**: A lot of minor changes on a Wordpress site for my job. CSS and plugin changes mostly.
 
-**Thoughts**: 
+**Thoughts**: I have mixed feelings about Wordpress, but I'm having a great time getting as much hands-on website building experience as I can get.
 
 **Link(s) to work**
-1. 
+1. To launch next week
+
+### Day 6: Thursday June 25, 2020
+
+**Today's Progress**: Continue with the CSS and plugin changes as mentioned. Rewrote writers briefs and sourced a few more stock photos from Unsplash.
+
+**Thoughts**: The site should be ready to launch next week, and depending on the plan from there, possibly integrating a Shopify store into the website.
+
+**Link(s) to work**
+1. (Still) to launch next week
+
+### Day 7: Friday June 26, 2020
+
+**Today's Progress**: Mobile testing for the Wordpress site! Which means everything was broken and I had to reposition many elements.
+
+**Thoughts**: It's all coming together after a hard couple of weeks of work, looking to launch Monday if it gets the all clear from my higher ups.
+On another note, feels great to have a week of coding openly under my belt.
+
+**Link(s) to work**
+1. ((Still) still) to launch next week
+
+### Day 8: Sunday June 28, 2020
+
+**Today's Progress**: Reading through Picozine #2 and following a 3D object rendering technique on a 2D console, Pico-8
+
+**Thoughts**: I took my first day off from the challenge yesterday, which I definitely enjoyed.
+I'm very interested in the concept of 3D rendering on low powered machines. Not sure where I'm going heading down this route but I'm having a good time parsing the algorithms. 
+
+**Link(s) to work**
+1. [3D Lua Source Code](https://gist.github.com/Ivoah/477775d13e142b2c89ba)
