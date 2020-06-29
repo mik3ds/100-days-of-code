@@ -81,3 +81,13 @@ I'm very interested in the concept of 3D rendering on low powered machines. Not 
 
 **Link(s) to work**
 1. [3D Lua Source Code](https://gist.github.com/Ivoah/477775d13e142b2c89ba)
+
+### Day 9: Monday June 29, 2020
+
+**Today's Progress**: Completed final touches on website, tested on a few mobile devices, minor CSS edits, sent to client for feedback.
+
+**Thoughts**: I'ts just a first draft of the final product but I'm glad to have reached this major milestone in the project.
+
+**Link(s) to work**
+1. Still coming soon.
+
