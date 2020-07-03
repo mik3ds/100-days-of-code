@@ -91,3 +91,29 @@ I'm very interested in the concept of 3D rendering on low powered machines. Not 
 **Link(s) to work**
 1. Still coming soon.
 
+### Day 10: June 30, 2020
+
+**Today's Progress**: Wordress - Dealing with Main Menu and submenu organization and CSS changes, and formatting the content currently on the site.
+
+**Thoughts**: My website design was approved today, which is great because I was worried that all this work would be for nothing if the clients are not a fan of the design.
+
+**Link(s) to work**
+1. Still coming soon.
+
+### Day 11: July 1, 2020
+
+**Today's Progress**: 95 old posts ported over and formatted properly for the new template. Writers briefs worked on, and more Pico-8 blog writing
+
+**Thoughts**: Been working very hard at my job lately, not a lot to show for it until this site launches! Which was supposed to be a week ago. Ah well, still learning a lot.
+
+**Link(s) to work**
+1. Still coming soon.
+
+### Day 12: June 3, 2020
+
+**Today's Progress**: So much old content being ported over, from a very basic HTML web page too so theres a lot of work making them look not terrible.
+
+**Thoughts**: 98 posts so far and counting!
+
+**Link(s) to work**
+1. Still coming soon.
