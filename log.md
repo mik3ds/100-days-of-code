@@ -109,7 +109,7 @@ I'm very interested in the concept of 3D rendering on low powered machines. Not 
 **Link(s) to work**
 1. Still coming soon.
 
-### Day 12: June 3, 2020
+### Day 12: July 3, 2020
 
 **Today's Progress**: So much old content being ported over, from a very basic HTML web page too so theres a lot of work making them look not terrible.
 
@@ -117,3 +117,13 @@ I'm very interested in the concept of 3D rendering on low powered machines. Not 
 
 **Link(s) to work**
 1. Still coming soon.
+
+### Day 13: Juy 5, 2020
+
+**Today's Progress**: Created a Weather app for Kotlin as part of a coding challenge.
+
+**Thoughts**: Great to be back dealing with mobile apps, hopefully I can continue to build my Kotlin portfolio over the next few weeks. A lot more interesting to me than Wordpress work.
+
+**Link(s) to work**
+1. [https://github.com/mik3ds/Kotlin-Weather-Application](Repo for Kotlin Weather App)
+2. [https://twitter.com/MikeCDev1/status/1279907385000091648](Screenshot here)
