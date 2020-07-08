@@ -135,7 +135,7 @@ I'm very interested in the concept of 3D rendering on low powered machines. Not 
 **Thoughts**: Dealing with SSL issues is one of the least interesting parts of web development :)
 
 **Link(s) to work**
-1.[Crystal World](https://www.crystalworld.com.au/)
+1. [Crystal World](https://www.crystalworld.com.au/)
 
 ### Day 15: July 8, 2020
 
