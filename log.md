@@ -125,8 +125,8 @@ I'm very interested in the concept of 3D rendering on low powered machines. Not 
 **Thoughts**: Great to be back dealing with mobile apps, hopefully I can continue to build my Kotlin portfolio over the next few weeks. A lot more interesting to me than Wordpress work.
 
 **Link(s) to work**
-1. [https://github.com/mik3ds/Kotlin-Weather-Application](Repo for Kotlin Weather App)
-2. [https://twitter.com/MikeCDev1/status/1279907385000091648](Screenshot here)
+1. [Repo for Kotlin Weather App](https://github.com/mik3ds/Kotlin-Weather-Application)
+2. [Screenshot here](https://twitter.com/MikeCDev1/status/1279907385000091648)
 
 ### Day 14: July 7, 2020
 
@@ -135,11 +135,11 @@ I'm very interested in the concept of 3D rendering on low powered machines. Not 
 **Thoughts**: Dealing with SSL issues is one of the least interesting parts of web development :)
 
 **Link(s) to work**
-1.[https://www.crystalworld.com.au/](Crystal World)
+1.[Crystal World](https://www.crystalworld.com.au/)
 
 ### Day 15: July 8, 2020
 
-**Today's Progress**: [https://www.crystalworld.com.au/](Site is now live!)
+**Today's Progress**: [Site is now live!](https://www.crystalworld.com.au/)
 
 **Thoughts**: I thought it wasn’t ready to go live, but the old site was broken, had no SSL, and didn't represent the company well.
 For this site, I only saw what was broken, but my manager only sees what has been improved.
@@ -147,4 +147,4 @@ Very happy with how it has all turned out. Excited to have a site live, and nerv
 
 
 **Link(s) to work**
-1. [https://www.crystalworld.com.au/](Crystal World)
+1. [Crystal World](https://www.crystalworld.com.au/)
