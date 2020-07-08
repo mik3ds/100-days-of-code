@@ -51,7 +51,7 @@ It was much harder to post a video to lonely.dev than I thought, but I'm long ov
 **Thoughts**: I have mixed feelings about Wordpress, but I'm having a great time getting as much hands-on website building experience as I can get.
 
 **Link(s) to work**
-1. To launch next week
+1. [Crystal World](https://www.crystalworld.com.au/)
 
 ### Day 6: Thursday June 25, 2020
 
@@ -60,7 +60,7 @@ It was much harder to post a video to lonely.dev than I thought, but I'm long ov
 **Thoughts**: The site should be ready to launch next week, and depending on the plan from there, possibly integrating a Shopify store into the website.
 
 **Link(s) to work**
-1. (Still) to launch next week
+1. [Crystal World](https://www.crystalworld.com.au/)
 
 ### Day 7: Friday June 26, 2020
 
@@ -70,7 +70,7 @@ It was much harder to post a video to lonely.dev than I thought, but I'm long ov
 On another note, feels great to have a week of coding openly under my belt.
 
 **Link(s) to work**
-1. ((Still) still) to launch next week
+1. [Crystal World](https://www.crystalworld.com.au/)
 
 ### Day 8: Sunday June 28, 2020
 
@@ -89,7 +89,7 @@ I'm very interested in the concept of 3D rendering on low powered machines. Not 
 **Thoughts**: I'ts just a first draft of the final product but I'm glad to have reached this major milestone in the project.
 
 **Link(s) to work**
-1. Still coming soon.
+1. [Crystal World](https://www.crystalworld.com.au/)
 
 ### Day 10: June 30, 2020
 
@@ -98,7 +98,7 @@ I'm very interested in the concept of 3D rendering on low powered machines. Not 
 **Thoughts**: My website design was approved today, which is great because I was worried that all this work would be for nothing if the clients are not a fan of the design.
 
 **Link(s) to work**
-1. Still coming soon.
+1. [Crystal World](https://www.crystalworld.com.au/)
 
 ### Day 11: July 1, 2020
 
@@ -107,7 +107,7 @@ I'm very interested in the concept of 3D rendering on low powered machines. Not 
 **Thoughts**: Been working very hard at my job lately, not a lot to show for it until this site launches! Which was supposed to be a week ago. Ah well, still learning a lot.
 
 **Link(s) to work**
-1. Still coming soon.
+1. [Crystal World](https://www.crystalworld.com.au/)
 
 ### Day 12: July 3, 2020
 
@@ -116,7 +116,7 @@ I'm very interested in the concept of 3D rendering on low powered machines. Not 
 **Thoughts**: 98 posts so far and counting!
 
 **Link(s) to work**
-1. Still coming soon.
+1. [Crystal World](https://www.crystalworld.com.au/)
 
 ### Day 13: July 5, 2020
 
