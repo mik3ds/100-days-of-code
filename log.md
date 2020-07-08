@@ -118,7 +118,7 @@ I'm very interested in the concept of 3D rendering on low powered machines. Not 
 **Link(s) to work**
 1. Still coming soon.
 
-### Day 13: Juy 5, 2020
+### Day 13: July 5, 2020
 
 **Today's Progress**: Created a Weather app for Kotlin as part of a coding challenge.
 
@@ -127,3 +127,24 @@ I'm very interested in the concept of 3D rendering on low powered machines. Not 
 **Link(s) to work**
 1. [https://github.com/mik3ds/Kotlin-Weather-Application](Repo for Kotlin Weather App)
 2. [https://twitter.com/MikeCDev1/status/1279907385000091648](Screenshot here)
+
+### Day 14: July 7, 2020
+
+**Today's Progress**: Porting website to new Host, getting SSL set up.
+
+**Thoughts**: Dealing with SSL issues is one of the least interesting parts of web development :)
+
+**Link(s) to work**
+1.[https://www.crystalworld.com.au/](Crystal World)
+
+### Day 15: July 8, 2020
+
+**Today's Progress**: [https://www.crystalworld.com.au/](Site is now live!)
+
+**Thoughts**: I thought it wasn’t ready to go live, but the old site was broken, had no SSL, and didn't represent the company well.
+For this site, I only saw what was broken, but my manager only sees what has been improved.
+Very happy with how it has all turned out. Excited to have a site live, and nervous because I want to clean up all the mistakes!
+
+
+**Link(s) to work**
+1. [https://www.crystalworld.com.au/](Crystal World)
