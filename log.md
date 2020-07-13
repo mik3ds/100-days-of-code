@@ -145,6 +145,28 @@ I'm very interested in the concept of 3D rendering on low powered machines. Not 
 For this site, I only saw what was broken, but my manager only sees what has been improved.
 Very happy with how it has all turned out. Excited to have a site live, and nervous because I want to clean up all the mistakes!
 
+**Link(s) to work**
+1. [Crystal World](https://www.crystalworld.com.au/)
+
+### Day 16: July 9, 2020
+
+**Today's Progress**: Set up a staging environment for the website, worked through minor todos and pushed to main site. 
+
+**Thoughts**: I accidentally changed the logo on the live site without changing the dimensions, so the staging environment was born from that.
 
 **Link(s) to work**
 1. [Crystal World](https://www.crystalworld.com.au/)
+
+### Day 17: July 10, 2020
+
+**Today's Progress**: Writing a python script to extract the content from 1800+ pages and convert them into a #wordpress posts import file
+
+**Thoughts**: The pages I'm porting oer were written in the early 2000's and added in batches, so there is no continuity in the way things are layed out or images are linked. There are a lot of edge cases here.
+
+
+### Day 18: July 13, 2020
+
+**Today's Progress**: Continued work on the Python script, began porting over content. Using sed to clear lines from html files that are unimportant first, then running the script in a folder to generate a list of items in an XML, and finally putting that into a WP posts import template. From there, Post ID's and URLs can be randomized.
+
+**Thoughts**: Pretty happy about the solution I've come up with. The data is so different between each page that even cutting my work down by 90%-95% would be ideal. I don't need to tinker with the script for another week for it to be perfect when I can just scrub the data up in a day after running the script as is.
+
